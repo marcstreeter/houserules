@@ -10,30 +10,33 @@ The basics enable many things. Read below.
     
     - House must be clean
     - Homework must be done
-    - Clothing must be ready for next day
+    - Clothing must be ready for next day (if you have clothing)
     - Playing on school days before dad is awake, after 8am, before 4pm, or after 8pm is prohibited
     - Every week starts with 4 hours allotted weekend game time for each child
 
 ### Earning
 These actions can earn you extra weekend time
     
-    - Get dad up such that he is working out by 4:30am (+30 Mins ea/day, or +1 hour ea/day if done for Mon-Sat)
+    - Get dad up such that he is working out by 4:30am (+30 Mins each day, or +1 hour each day if done for Monday-Saturday)
+    - Do Khan Academy 30 mins.= 30 mins. Game-time (1hr=1hr etc.)
+    - Mow the lawn (trimming too) +1hr
+    - Run on treadmill 30mins +30 minutes
     - *more to come if you have ideas*
 
 ### Losing
-These actions can waste your extra weekend time
+These actions can waste your extra weekend/week time
     
     - Watch TV or Play Games  or be on phone when `Basics` not complete (-30 Mins)
     - Dad get’s you up after 8AM (-30 Mins)
     - Losing 180 Min in a week - equates to all weekend time lost regardless of time earned
-    - Group offenders lose all weekend time
+    - Group offenders lose all week time
 
 ### Usage
 Using time is a time honored passed time.
 
-    - Earned weekend game timemay be used on Saturday from 6am until 8pm (ie. max usable earned game time is 14 hours)
+    - Earned weekend game time may be used on Saturday from 6am until 8pm (ie. max usable earned game time is 14 hours)
     - Each child allotted 2 hour game time per week day (non-transferable)
     - Daily allotted game time used before 8am does not take from the daily allotted
     - Unused daily weekday game time allotment is lost after 8pm
     - Rules are not retro-active (can't enforce a rule until it's written)
-    - Weekend gametime starts at 6am Saturday and counts down from that point (eg. 3 hours earned game time expires at 9am)
+    - Weekend game-time starts at 6am Saturday and counts down from that point (eg. 3 hours earned game time expires at 9am)
