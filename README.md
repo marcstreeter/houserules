@@ -12,7 +12,7 @@ The basics enable many things. Read below.
     - Homework must be done
     - Clothing must be ready for next day
     - Playing on school days before dad is awake, after 8am, before 4pm, or after 8pm is prohibited
-    - Every week starts with 4 hours allotted weekend game time for each child
+    - Every week starts with 5 hours allotted weekend game time for each child
 
 ### Earning
 These actions can earn you extra weekend time
@@ -21,7 +21,8 @@ These actions can earn you extra weekend time
     - Exercising on the treadmill for at least 1 hour to earn (+30 Mins)
     - Mowing the entire lawn (complete with trimming) (+1 hour)
     - 30 minutes of programming/typing/working(+30 Mins)
-    - *more to come if you have ideas*
+    - sleep before 8:30pm (+30 Mins)
+    - everyone asleep before 8:30pm (+1 hour)
 
 ### Losing
 These actions can waste your extra weekend time
